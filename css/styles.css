@@ -60,7 +60,21 @@ main {
 
 .text-content {
     flex: 1;
-    margin-right: 2em;
+    margin-right: 5em;
+}
+
+.text-content p {
+    font-size: 1.25rem;
+    padding-bottom: 1.5em;
+}
+
+#name {
+    font-size: 3.5em;
+}
+
+#subtitle {
+    font-size: 1.35rem;
+    color: #666;
 }
 
 .image-content {
